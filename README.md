@@ -48,9 +48,7 @@ The project is organized to reflect the required two-phase pipeline:
 - **Pretraining Phase (M05)** → train a base language model on raw text
 - **Fine-Tuning Phase (M07)** → adapt the pretrained model on JSON instruction-response pairs 
 
----
-Warning: the current training and model are not ready for personal use 
------ 
+--- 
 
 
 
