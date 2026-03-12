@@ -1,4 +1,4 @@
-# You can access demo through this link[Demo](https://drive.google.com/file/d/1ZxDxUDRk6CU7hhlIp6rQLNZvfFG3Rtqd/view?usp=sharing)
+# You can access demo through this link: [Demo](https://drive.google.com/file/d/1ZxDxUDRk6CU7hhlIp6rQLNZvfFG3Rtqd/view?usp=sharing)
 # GPT-from-scratch-Project
 
 A decoder-only GPT-style language model built in PyTorch and trained in two stages:
