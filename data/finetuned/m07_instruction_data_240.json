@@ -1,0 +1,1202 @@
+[
+  {
+    "instruction": "Summarize the following story in one sentence.",
+    "input": "Lily finds a needle and asks her mother to help sew a button on her shirt.",
+    "output": "Lily finds a needle and asks her mother to help sew a button on her shirt."
+  },
+  {
+    "instruction": "Give a short title for the following story.",
+    "input": "Lily finds a needle and asks her mother to help sew a button on her shirt.",
+    "output": "Lily Shares the Needle"
+  },
+  {
+    "instruction": "Who is the main character in this story?",
+    "input": "Lily finds a needle and asks her mother to help sew a button on her shirt.",
+    "output": "The main character is Lily."
+  },
+  {
+    "instruction": "Where does this story mainly take place?",
+    "input": "Lily finds a needle and asks her mother to help sew a button on her shirt.",
+    "output": "This story mainly takes place at home with her mother."
+  },
+  {
+    "instruction": "What problem appears in this story?",
+    "input": "Lily finds a needle and asks her mother to help sew a button on her shirt.",
+    "output": "Lily needs help fixing her shirt because the needle is sharp and difficult to use alone."
+  },
+  {
+    "instruction": "How is the problem solved in this story?",
+    "input": "Lily finds a needle and asks her mother to help sew a button on her shirt.",
+    "output": "Lily and her mother share the needle, sew the button, and feel happy after working together."
+  },
+  {
+    "instruction": "What is the moral of this story?",
+    "input": "Lily finds a needle and asks her mother to help sew a button on her shirt.",
+    "output": "Sharing and helping each other makes difficult tasks easier."
+  },
+  {
+    "instruction": "Answer the question about the story.",
+    "input": "Story summary: Lily finds a needle and asks her mother to help sew a button on her shirt.\nQuestion: Why did Lily take the needle to her mother?",
+    "output": "She took the needle to her mother so they could sew a button on her shirt together."
+  },
+  {
+    "instruction": "Continue the story in two simple sentences.",
+    "input": "Lily finds a needle and asks her mother to help sew a button on her shirt.",
+    "output": "After that, Lily put the needle in a safe place. She smiled because she learned that teamwork can solve problems."
+  },
+  {
+    "instruction": "Rewrite the story in simpler words for a young child.",
+    "input": "Lily finds a needle and asks her mother to help sew a button on her shirt.",
+    "output": "Lily found a sharp needle and asked her mom to help fix her shirt. They worked together and felt happy."
+  },
+  {
+    "instruction": "Describe the main feeling in this story.",
+    "input": "Lily finds a needle and asks her mother to help sew a button on her shirt.",
+    "output": "The main feeling in this story is happy and thankful."
+  },
+  {
+    "instruction": "Summarize the following story in one sentence.",
+    "input": "Beep the little car enjoys playing under a tree and later gets more fuel before going home.",
+    "output": "Beep the little car enjoys playing under a tree and later gets more fuel before going home."
+  },
+  {
+    "instruction": "Give a short title for the following story.",
+    "input": "Beep the little car enjoys playing under a tree and later gets more fuel before going home.",
+    "output": "Beep and the Falling Leaves"
+  },
+  {
+    "instruction": "Who is the main character in this story?",
+    "input": "Beep the little car enjoys playing under a tree and later gets more fuel before going home.",
+    "output": "The main character is Beep."
+  },
+  {
+    "instruction": "Where does this story mainly take place?",
+    "input": "Beep the little car enjoys playing under a tree and later gets more fuel before going home.",
+    "output": "This story mainly takes place in the park under a big tree."
+  },
+  {
+    "instruction": "What problem appears in this story?",
+    "input": "Beep the little car enjoys playing under a tree and later gets more fuel before going home.",
+    "output": "Beep uses up his fuel after playing all day in the park."
+  },
+  {
+    "instruction": "How is the problem solved in this story?",
+    "input": "Beep the little car enjoys playing under a tree and later gets more fuel before going home.",
+    "output": "He goes to get more fuel and is ready to play again the next day."
+  },
+  {
+    "instruction": "What is the moral of this story?",
+    "input": "Beep the little car enjoys playing under a tree and later gets more fuel before going home.",
+    "output": "Taking care of yourself helps you stay strong and ready for fun."
+  },
+  {
+    "instruction": "Answer the question about the story.",
+    "input": "Story summary: Beep the little car enjoys playing under a tree and later gets more fuel before going home.\nQuestion: Why was Beep called a healthy car?",
+    "output": "Beep was healthy because he always had good fuel."
+  },
+  {
+    "instruction": "Continue the story in two simple sentences.",
+    "input": "Beep the little car enjoys playing under a tree and later gets more fuel before going home.",
+    "output": "The next morning, Beep drove back to the park with a full tank. He beeped happily when he saw the leaves dancing again."
+  },
+  {
+    "instruction": "Rewrite the story in simpler words for a young child.",
+    "input": "Beep the little car enjoys playing under a tree and later gets more fuel before going home.",
+    "output": "Beep loved to play in the park. After playing all day, he got more fuel and went home happy."
+  },
+  {
+    "instruction": "Describe the main feeling in this story.",
+    "input": "Beep the little car enjoys playing under a tree and later gets more fuel before going home.",
+    "output": "The main feeling in this story is playful and cheerful."
+  },
+  {
+    "instruction": "Summarize the following story in one sentence.",
+    "input": "Fin sees a cold crab, asks the sun for help, and becomes friends with the crab.",
+    "output": "Fin sees a cold crab, asks the sun for help, and becomes friends with the crab."
+  },
+  {
+    "instruction": "Give a short title for the following story.",
+    "input": "Fin sees a cold crab, asks the sun for help, and becomes friends with the crab.",
+    "output": "Fin Helps the Cold Crab"
+  },
+  {
+    "instruction": "Who is the main character in this story?",
+    "input": "Fin sees a cold crab, asks the sun for help, and becomes friends with the crab.",
+    "output": "The main character is Fin."
+  },
+  {
+    "instruction": "Where does this story mainly take place?",
+    "input": "Fin sees a cold crab, asks the sun for help, and becomes friends with the crab.",
+    "output": "This story mainly takes place near the shore by the sea."
+  },
+  {
+    "instruction": "What problem appears in this story?",
+    "input": "Fin sees a cold crab, asks the sun for help, and becomes friends with the crab.",
+    "output": "The crab feels too cold to play."
+  },
+  {
+    "instruction": "How is the problem solved in this story?",
+    "input": "Fin sees a cold crab, asks the sun for help, and becomes friends with the crab.",
+    "output": "The sun warms the shore, the crab feels better, and they play together."
+  },
+  {
+    "instruction": "What is the moral of this story?",
+    "input": "Fin sees a cold crab, asks the sun for help, and becomes friends with the crab.",
+    "output": "Kindness can turn sadness into friendship."
+  },
+  {
+    "instruction": "Answer the question about the story.",
+    "input": "Story summary: Fin sees a cold crab, asks the sun for help, and becomes friends with the crab.\nQuestion: How did Fin help the crab?",
+    "output": "Fin asked the sun to warm the shore so the crab would not feel cold anymore."
+  },
+  {
+    "instruction": "Continue the story in two simple sentences.",
+    "input": "Fin sees a cold crab, asks the sun for help, and becomes friends with the crab.",
+    "output": "The crab thanked Fin again and promised to help him one day too. They spent the afternoon splashing near the shore."
+  },
+  {
+    "instruction": "Rewrite the story in simpler words for a young child.",
+    "input": "Fin sees a cold crab, asks the sun for help, and becomes friends with the crab.",
+    "output": "Fin saw a cold crab and wanted to help. The sun warmed the crab, and then they became friends."
+  },
+  {
+    "instruction": "Describe the main feeling in this story.",
+    "input": "Fin sees a cold crab, asks the sun for help, and becomes friends with the crab.",
+    "output": "The main feeling in this story is kind and caring."
+  },
+  {
+    "instruction": "Summarize the following story in one sentence.",
+    "input": "A lonely cherry tree learns that being different is special when animals come to enjoy its cherries.",
+    "output": "A lonely cherry tree learns that being different is special when animals come to enjoy its cherries."
+  },
+  {
+    "instruction": "Give a short title for the following story.",
+    "input": "A lonely cherry tree learns that being different is special when animals come to enjoy its cherries.",
+    "output": "The Cherry Tree Finds Friends"
+  },
+  {
+    "instruction": "Who is the main character in this story?",
+    "input": "A lonely cherry tree learns that being different is special when animals come to enjoy its cherries.",
+    "output": "The main character is the little cherry tree."
+  },
+  {
+    "instruction": "Where does this story mainly take place?",
+    "input": "A lonely cherry tree learns that being different is special when animals come to enjoy its cherries.",
+    "output": "This story mainly takes place in a land full of trees."
+  },
+  {
+    "instruction": "What problem appears in this story?",
+    "input": "A lonely cherry tree learns that being different is special when animals come to enjoy its cherries.",
+    "output": "The cherry tree feels sad and envious because it is smaller than the other trees."
+  },
+  {
+    "instruction": "How is the problem solved in this story?",
+    "input": "A lonely cherry tree learns that being different is special when animals come to enjoy its cherries.",
+    "output": "It grows sweet cherries, many animals gather around it, and it becomes happy."
+  },
+  {
+    "instruction": "What is the moral of this story?",
+    "input": "A lonely cherry tree learns that being different is special when animals come to enjoy its cherries.",
+    "output": "Being different can be a good thing."
+  },
+  {
+    "instruction": "Answer the question about the story.",
+    "input": "Story summary: A lonely cherry tree learns that being different is special when animals come to enjoy its cherries.\nQuestion: Why was the cherry tree sad at the beginning?",
+    "output": "It was sad because it was small and weak and thought the bigger trees were better."
+  },
+  {
+    "instruction": "Continue the story in two simple sentences.",
+    "input": "A lonely cherry tree learns that being different is special when animals come to enjoy its cherries.",
+    "output": "Soon the cherry tree stopped comparing itself to others. It enjoyed the laughter of its new animal friends every day."
+  },
+  {
+    "instruction": "Rewrite the story in simpler words for a young child.",
+    "input": "A lonely cherry tree learns that being different is special when animals come to enjoy its cherries.",
+    "output": "A small cherry tree felt sad because it was different. Later it learned that its sweet cherries made it special."
+  },
+  {
+    "instruction": "Describe the main feeling in this story.",
+    "input": "A lonely cherry tree learns that being different is special when animals come to enjoy its cherries.",
+    "output": "The main feeling in this story is sad at first, then proud and happy."
+  },
+  {
+    "instruction": "Summarize the following story in one sentence.",
+    "input": "Lily and her animal friends work together to clear a cobweb so they can play again.",
+    "output": "Lily and her animal friends work together to clear a cobweb so they can play again."
+  },
+  {
+    "instruction": "Give a short title for the following story.",
+    "input": "Lily and her animal friends work together to clear a cobweb so they can play again.",
+    "output": "Lily and the Cobweb"
+  },
+  {
+    "instruction": "Who is the main character in this story?",
+    "input": "Lily and her animal friends work together to clear a cobweb so they can play again.",
+    "output": "The main character is Lily."
+  },
+  {
+    "instruction": "Where does this story mainly take place?",
+    "input": "Lily and her animal friends work together to clear a cobweb so they can play again.",
+    "output": "This story mainly takes place inside a castle."
+  },
+  {
+    "instruction": "What problem appears in this story?",
+    "input": "Lily and her animal friends work together to clear a cobweb so they can play again.",
+    "output": "A big cobweb blocks Lily's game, and she is scared of the spider."
+  },
+  {
+    "instruction": "How is the problem solved in this story?",
+    "input": "Lily and her animal friends work together to clear a cobweb so they can play again.",
+    "output": "Lily, the cat, and the dog clean the cobweb, and the spider finds a new home outside."
+  },
+  {
+    "instruction": "What is the moral of this story?",
+    "input": "Lily and her animal friends work together to clear a cobweb so they can play again.",
+    "output": "Working together helps solve scary problems."
+  },
+  {
+    "instruction": "Answer the question about the story.",
+    "input": "Story summary: Lily and her animal friends work together to clear a cobweb so they can play again.\nQuestion: Who helped Lily with the cobweb?",
+    "output": "The cat and the dog helped Lily clean the cobweb."
+  },
+  {
+    "instruction": "Continue the story in two simple sentences.",
+    "input": "Lily and her animal friends work together to clear a cobweb so they can play again.",
+    "output": "After cleaning the room, Lily thanked her friends with a big smile. Then they went back to their castle game."
+  },
+  {
+    "instruction": "Rewrite the story in simpler words for a young child.",
+    "input": "Lily and her animal friends work together to clear a cobweb so they can play again.",
+    "output": "Lily found a cobweb in her castle. She and her friends cleaned it together so they could play."
+  },
+  {
+    "instruction": "Describe the main feeling in this story.",
+    "input": "Lily and her animal friends work together to clear a cobweb so they can play again.",
+    "output": "The main feeling in this story is brave and relieved."
+  },
+  {
+    "instruction": "Summarize the following story in one sentence.",
+    "input": "Tim spends a fun day rolling in the water with a brown kayak and says goodbye at the end.",
+    "output": "Tim spends a fun day rolling in the water with a brown kayak and says goodbye at the end."
+  },
+  {
+    "instruction": "Give a short title for the following story.",
+    "input": "Tim spends a fun day rolling in the water with a brown kayak and says goodbye at the end.",
+    "output": "Tim and the Brown Kayak"
+  },
+  {
+    "instruction": "Who is the main character in this story?",
+    "input": "Tim spends a fun day rolling in the water with a brown kayak and says goodbye at the end.",
+    "output": "The main character is Tim."
+  },
+  {
+    "instruction": "Where does this story mainly take place?",
+    "input": "Tim spends a fun day rolling in the water with a brown kayak and says goodbye at the end.",
+    "output": "This story mainly takes place on a lake."
+  },
+  {
+    "instruction": "What problem appears in this story?",
+    "input": "Tim spends a fun day rolling in the water with a brown kayak and says goodbye at the end.",
+    "output": "Tim has to leave even though he is having fun."
+  },
+  {
+    "instruction": "How is the problem solved in this story?",
+    "input": "Tim spends a fun day rolling in the water with a brown kayak and says goodbye at the end.",
+    "output": "He says goodbye, and the kayak waits happily for another day together."
+  },
+  {
+    "instruction": "What is the moral of this story?",
+    "input": "Tim spends a fun day rolling in the water with a brown kayak and says goodbye at the end.",
+    "output": "Good friends can look forward to meeting again."
+  },
+  {
+    "instruction": "Answer the question about the story.",
+    "input": "Story summary: Tim spends a fun day rolling in the water with a brown kayak and says goodbye at the end.\nQuestion: What did Tim and the kayak do together?",
+    "output": "They rolled in the water together and had fun in the lake."
+  },
+  {
+    "instruction": "Continue the story in two simple sentences.",
+    "input": "Tim spends a fun day rolling in the water with a brown kayak and says goodbye at the end.",
+    "output": "The next week, Tim came back with an even bigger smile. The kayak splashed with joy when it saw him again."
+  },
+  {
+    "instruction": "Rewrite the story in simpler words for a young child.",
+    "input": "Tim spends a fun day rolling in the water with a brown kayak and says goodbye at the end.",
+    "output": "Tim played with a brown kayak in the warm lake. They had fun and promised to play again soon."
+  },
+  {
+    "instruction": "Describe the main feeling in this story.",
+    "input": "Tim spends a fun day rolling in the water with a brown kayak and says goodbye at the end.",
+    "output": "The main feeling in this story is happy, then a little sad."
+  },
+  {
+    "instruction": "Summarize the following story in one sentence.",
+    "input": "Lily finds her lost triangle toy in a puddle and becomes happy again.",
+    "output": "Lily finds her lost triangle toy in a puddle and becomes happy again."
+  },
+  {
+    "instruction": "Give a short title for the following story.",
+    "input": "Lily finds her lost triangle toy in a puddle and becomes happy again.",
+    "output": "Lily Finds Her Triangle"
+  },
+  {
+    "instruction": "Who is the main character in this story?",
+    "input": "Lily finds her lost triangle toy in a puddle and becomes happy again.",
+    "output": "The main character is Lily."
+  },
+  {
+    "instruction": "Where does this story mainly take place?",
+    "input": "Lily finds her lost triangle toy in a puddle and becomes happy again.",
+    "output": "This story mainly takes place in the park near a puddle."
+  },
+  {
+    "instruction": "What problem appears in this story?",
+    "input": "Lily finds her lost triangle toy in a puddle and becomes happy again.",
+    "output": "Lily loses her favorite toy and feels troubled."
+  },
+  {
+    "instruction": "How is the problem solved in this story?",
+    "input": "Lily finds her lost triangle toy in a puddle and becomes happy again.",
+    "output": "She reaches into a puddle, finds the triangle, and keeps it close after that."
+  },
+  {
+    "instruction": "What is the moral of this story?",
+    "input": "Lily finds her lost triangle toy in a puddle and becomes happy again.",
+    "output": "Do not give up when looking for something important."
+  },
+  {
+    "instruction": "Answer the question about the story.",
+    "input": "Story summary: Lily finds her lost triangle toy in a puddle and becomes happy again.\nQuestion: Where did Lily find her triangle?",
+    "output": "She found her triangle at the bottom of a puddle in the park."
+  },
+  {
+    "instruction": "Continue the story in two simple sentences.",
+    "input": "Lily finds her lost triangle toy in a puddle and becomes happy again.",
+    "output": "From that day on, Lily checked her things carefully before going home. She still smiled whenever she saw puddles."
+  },
+  {
+    "instruction": "Rewrite the story in simpler words for a young child.",
+    "input": "Lily finds her lost triangle toy in a puddle and becomes happy again.",
+    "output": "Lily lost her triangle toy. She found it in a puddle and felt happy again."
+  },
+  {
+    "instruction": "Describe the main feeling in this story.",
+    "input": "Lily finds her lost triangle toy in a puddle and becomes happy again.",
+    "output": "The main feeling in this story is troubled, then joyful."
+  },
+  {
+    "instruction": "Summarize the following story in one sentence.",
+    "input": "Tim and Sarah join a race, run with joy, and Tim wins at the finish line.",
+    "output": "Tim and Sarah join a race, run with joy, and Tim wins at the finish line."
+  },
+  {
+    "instruction": "Give a short title for the following story.",
+    "input": "Tim and Sarah join a race, run with joy, and Tim wins at the finish line.",
+    "output": "Tim Wins the Race"
+  },
+  {
+    "instruction": "Who is the main character in this story?",
+    "input": "Tim and Sarah join a race, run with joy, and Tim wins at the finish line.",
+    "output": "The main character is Tim."
+  },
+  {
+    "instruction": "Where does this story mainly take place?",
+    "input": "Tim and Sarah join a race, run with joy, and Tim wins at the finish line.",
+    "output": "This story mainly takes place at the park during a race."
+  },
+  {
+    "instruction": "What problem appears in this story?",
+    "input": "Tim and Sarah join a race, run with joy, and Tim wins at the finish line.",
+    "output": "Tim wants to test himself in a race."
+  },
+  {
+    "instruction": "How is the problem solved in this story?",
+    "input": "Tim and Sarah join a race, run with joy, and Tim wins at the finish line.",
+    "output": "He runs hard, wins the race, and celebrates with Sarah and friends."
+  },
+  {
+    "instruction": "What is the moral of this story?",
+    "input": "Tim and Sarah join a race, run with joy, and Tim wins at the finish line.",
+    "output": "Trying your best can make you proud and happy."
+  },
+  {
+    "instruction": "Answer the question about the story.",
+    "input": "Story summary: Tim and Sarah join a race, run with joy, and Tim wins at the finish line.\nQuestion: Who came in second place in the race?",
+    "output": "Sarah came in second place."
+  },
+  {
+    "instruction": "Continue the story in two simple sentences.",
+    "input": "Tim and Sarah join a race, run with joy, and Tim wins at the finish line.",
+    "output": "After the race, Tim told Sarah she ran very well too. They both promised to race again another day."
+  },
+  {
+    "instruction": "Rewrite the story in simpler words for a young child.",
+    "input": "Tim and Sarah join a race, run with joy, and Tim wins at the finish line.",
+    "output": "Tim and Sarah joined a race in the park. Tim won, and both friends felt proud."
+  },
+  {
+    "instruction": "Describe the main feeling in this story.",
+    "input": "Tim and Sarah join a race, run with joy, and Tim wins at the finish line.",
+    "output": "The main feeling in this story is excited and proud."
+  },
+  {
+    "instruction": "Summarize the following story in one sentence.",
+    "input": "Max hurts his knee, gets advice from an owl, and feels better after walking slowly.",
+    "output": "Max hurts his knee, gets advice from an owl, and feels better after walking slowly."
+  },
+  {
+    "instruction": "Give a short title for the following story.",
+    "input": "Max hurts his knee, gets advice from an owl, and feels better after walking slowly.",
+    "output": "Max Tests His Knee"
+  },
+  {
+    "instruction": "Who is the main character in this story?",
+    "input": "Max hurts his knee, gets advice from an owl, and feels better after walking slowly.",
+    "output": "The main character is Max."
+  },
+  {
+    "instruction": "Where does this story mainly take place?",
+    "input": "Max hurts his knee, gets advice from an owl, and feels better after walking slowly.",
+    "output": "This story mainly takes place in the park with his friends."
+  },
+  {
+    "instruction": "What problem appears in this story?",
+    "input": "Max hurts his knee, gets advice from an owl, and feels better after walking slowly.",
+    "output": "Max falls while running and hurts his knee."
+  },
+  {
+    "instruction": "How is the problem solved in this story?",
+    "input": "Max hurts his knee, gets advice from an owl, and feels better after walking slowly.",
+    "output": "He tests his knee slowly, it feels better, and he can play again."
+  },
+  {
+    "instruction": "What is the moral of this story?",
+    "input": "Max hurts his knee, gets advice from an owl, and feels better after walking slowly.",
+    "output": "Sometimes you need to slow down and listen to your body."
+  },
+  {
+    "instruction": "Answer the question about the story.",
+    "input": "Story summary: Max hurts his knee, gets advice from an owl, and feels better after walking slowly.\nQuestion: What advice did the owl give Max?",
+    "output": "The owl told Max to walk slowly and test whether his knee still hurt."
+  },
+  {
+    "instruction": "Continue the story in two simple sentences.",
+    "input": "Max hurts his knee, gets advice from an owl, and feels better after walking slowly.",
+    "output": "Max thanked the owl once more before running carefully back to his friends. He remembered not to rush too much."
+  },
+  {
+    "instruction": "Rewrite the story in simpler words for a young child.",
+    "input": "Max hurts his knee, gets advice from an owl, and feels better after walking slowly.",
+    "output": "Max hurt his knee while playing. The owl told him to walk slowly, and soon he felt better."
+  },
+  {
+    "instruction": "Describe the main feeling in this story.",
+    "input": "Max hurts his knee, gets advice from an owl, and feels better after walking slowly.",
+    "output": "The main feeling in this story is worried, then relieved."
+  },
+  {
+    "instruction": "Summarize the following story in one sentence.",
+    "input": "Tim takes Sam for a ride in a loud car, and then they play together at the park.",
+    "output": "Tim takes Sam for a ride in a loud car, and then they play together at the park."
+  },
+  {
+    "instruction": "Give a short title for the following story.",
+    "input": "Tim takes Sam for a ride in a loud car, and then they play together at the park.",
+    "output": "A Ride in the Loud Car"
+  },
+  {
+    "instruction": "Who is the main character in this story?",
+    "input": "Tim takes Sam for a ride in a loud car, and then they play together at the park.",
+    "output": "The main character is Tim."
+  },
+  {
+    "instruction": "Where does this story mainly take place?",
+    "input": "Tim takes Sam for a ride in a loud car, and then they play together at the park.",
+    "output": "This story mainly takes place around town and at the park."
+  },
+  {
+    "instruction": "What problem appears in this story?",
+    "input": "Tim takes Sam for a ride in a loud car, and then they play together at the park.",
+    "output": "There is no real problem; the story is about enjoying a fun day together."
+  },
+  {
+    "instruction": "How is the problem solved in this story?",
+    "input": "Tim takes Sam for a ride in a loud car, and then they play together at the park.",
+    "output": "They enjoy the ride, stop at the park, and go home after a great day."
+  },
+  {
+    "instruction": "What is the moral of this story?",
+    "input": "Tim takes Sam for a ride in a loud car, and then they play together at the park.",
+    "output": "Simple time with friends can make a day special."
+  },
+  {
+    "instruction": "Answer the question about the story.",
+    "input": "Story summary: Tim takes Sam for a ride in a loud car, and then they play together at the park.\nQuestion: What did Tim and Sam do after driving around town?",
+    "output": "They stopped at the park and played together."
+  },
+  {
+    "instruction": "Continue the story in two simple sentences.",
+    "input": "Tim takes Sam for a ride in a loud car, and then they play together at the park.",
+    "output": "On the way home, Sam thanked Tim for the ride. Tim smiled because sharing fun with a friend made the day even better."
+  },
+  {
+    "instruction": "Rewrite the story in simpler words for a young child.",
+    "input": "Tim takes Sam for a ride in a loud car, and then they play together at the park.",
+    "output": "Tim picked up Sam in his loud car. They drove around town and played at the park."
+  },
+  {
+    "instruction": "Describe the main feeling in this story.",
+    "input": "Tim takes Sam for a ride in a loud car, and then they play together at the park.",
+    "output": "The main feeling in this story is energetic and happy."
+  },
+  {
+    "instruction": "Summarize the following story in one sentence.",
+    "input": "Dependable, the family car, wins a race and makes the family proud.",
+    "output": "Dependable, the family car, wins a race and makes the family proud."
+  },
+  {
+    "instruction": "Give a short title for the following story.",
+    "input": "Dependable, the family car, wins a race and makes the family proud.",
+    "output": "Dependable Wins the Race"
+  },
+  {
+    "instruction": "Who is the main character in this story?",
+    "input": "Dependable, the family car, wins a race and makes the family proud.",
+    "output": "The main character is Dependable."
+  },
+  {
+    "instruction": "Where does this story mainly take place?",
+    "input": "Dependable, the family car, wins a race and makes the family proud.",
+    "output": "This story mainly takes place at the park during a fun race."
+  },
+  {
+    "instruction": "What problem appears in this story?",
+    "input": "Dependable, the family car, wins a race and makes the family proud.",
+    "output": "The family wants to do well in the fun race."
+  },
+  {
+    "instruction": "How is the problem solved in this story?",
+    "input": "Dependable, the family car, wins a race and makes the family proud.",
+    "output": "Dependable races quickly, wins, and the family celebrates together."
+  },
+  {
+    "instruction": "What is the moral of this story?",
+    "input": "Dependable, the family car, wins a race and makes the family proud.",
+    "output": "Trust and teamwork help bring success."
+  },
+  {
+    "instruction": "Answer the question about the story.",
+    "input": "Story summary: Dependable, the family car, wins a race and makes the family proud.\nQuestion: Why was the family proud of Dependable?",
+    "output": "They were proud because Dependable won the race."
+  },
+  {
+    "instruction": "Continue the story in two simple sentences.",
+    "input": "Dependable, the family car, wins a race and makes the family proud.",
+    "output": "After the race, the family took a happy picture beside Dependable. They laughed about the exciting day all the way home."
+  },
+  {
+    "instruction": "Rewrite the story in simpler words for a young child.",
+    "input": "Dependable, the family car, wins a race and makes the family proud.",
+    "output": "A family joined a park race with their car Dependable. Dependable won, and everyone felt proud."
+  },
+  {
+    "instruction": "Describe the main feeling in this story.",
+    "input": "Dependable, the family car, wins a race and makes the family proud.",
+    "output": "The main feeling in this story is excited and proud."
+  },
+  {
+    "instruction": "Summarize the following story in one sentence.",
+    "input": "Tim finds a yellow pencil, keeps it in his hat, and uses it to draw pictures every day.",
+    "output": "Tim finds a yellow pencil, keeps it in his hat, and uses it to draw pictures every day."
+  },
+  {
+    "instruction": "Give a short title for the following story.",
+    "input": "Tim finds a yellow pencil, keeps it in his hat, and uses it to draw pictures every day.",
+    "output": "Tim, the Hat, and the Pencil"
+  },
+  {
+    "instruction": "Who is the main character in this story?",
+    "input": "Tim finds a yellow pencil, keeps it in his hat, and uses it to draw pictures every day.",
+    "output": "The main character is Tim."
+  },
+  {
+    "instruction": "Where does this story mainly take place?",
+    "input": "Tim finds a yellow pencil, keeps it in his hat, and uses it to draw pictures every day.",
+    "output": "This story mainly takes place outside and at home while drawing."
+  },
+  {
+    "instruction": "What problem appears in this story?",
+    "input": "Tim finds a yellow pencil, keeps it in his hat, and uses it to draw pictures every day.",
+    "output": "There is no major problem; Tim simply finds a pencil and enjoys it."
+  },
+  {
+    "instruction": "How is the problem solved in this story?",
+    "input": "Tim finds a yellow pencil, keeps it in his hat, and uses it to draw pictures every day.",
+    "output": "He keeps the pencil and happily uses it for drawing."
+  },
+  {
+    "instruction": "What is the moral of this story?",
+    "input": "Tim finds a yellow pencil, keeps it in his hat, and uses it to draw pictures every day.",
+    "output": "Small discoveries can bring everyday joy."
+  },
+  {
+    "instruction": "Answer the question about the story.",
+    "input": "Story summary: Tim finds a yellow pencil, keeps it in his hat, and uses it to draw pictures every day.\nQuestion: What did Tim draw with the pencil?",
+    "output": "He drew a sun, a tree, and a cat."
+  },
+  {
+    "instruction": "Continue the story in two simple sentences.",
+    "input": "Tim finds a yellow pencil, keeps it in his hat, and uses it to draw pictures every day.",
+    "output": "Soon Tim filled many pages with his drawings. His favorite part was still keeping the little pencil in his big dark hat."
+  },
+  {
+    "instruction": "Rewrite the story in simpler words for a young child.",
+    "input": "Tim finds a yellow pencil, keeps it in his hat, and uses it to draw pictures every day.",
+    "output": "Tim found a small yellow pencil. He put it in his hat and used it to draw happy pictures."
+  },
+  {
+    "instruction": "Describe the main feeling in this story.",
+    "input": "Tim finds a yellow pencil, keeps it in his hat, and uses it to draw pictures every day.",
+    "output": "The main feeling in this story is content and creative."
+  },
+  {
+    "instruction": "Summarize the following story in one sentence.",
+    "input": "Mia bravely enters a house, finds a sad bird in a cage, and sets it free.",
+    "output": "Mia bravely enters a house, finds a sad bird in a cage, and sets it free."
+  },
+  {
+    "instruction": "Give a short title for the following story.",
+    "input": "Mia bravely enters a house, finds a sad bird in a cage, and sets it free.",
+    "output": "Mia Frees the Bird"
+  },
+  {
+    "instruction": "Who is the main character in this story?",
+    "input": "Mia bravely enters a house, finds a sad bird in a cage, and sets it free.",
+    "output": "The main character is Mia."
+  },
+  {
+    "instruction": "Where does this story mainly take place?",
+    "input": "Mia bravely enters a house, finds a sad bird in a cage, and sets it free.",
+    "output": "This story mainly takes place inside a scary house."
+  },
+  {
+    "instruction": "What problem appears in this story?",
+    "input": "Mia bravely enters a house, finds a sad bird in a cage, and sets it free.",
+    "output": "The bird is trapped in a birdcage and feels sad."
+  },
+  {
+    "instruction": "How is the problem solved in this story?",
+    "input": "Mia bravely enters a house, finds a sad bird in a cage, and sets it free.",
+    "output": "Mia opens the cage door, and the bird flies out happily."
+  },
+  {
+    "instruction": "What is the moral of this story?",
+    "input": "Mia bravely enters a house, finds a sad bird in a cage, and sets it free.",
+    "output": "Bravery and kindness can help someone in need."
+  },
+  {
+    "instruction": "Answer the question about the story.",
+    "input": "Story summary: Mia bravely enters a house, finds a sad bird in a cage, and sets it free.\nQuestion: Why was the bird sad?",
+    "output": "The bird was sad because it was stuck inside the birdcage and wanted to fly free."
+  },
+  {
+    "instruction": "Continue the story in two simple sentences.",
+    "input": "Mia bravely enters a house, finds a sad bird in a cage, and sets it free.",
+    "output": "The bird flew around Mia in a happy circle before resting on a branch. Mia smiled because the house no longer felt scary."
+  },
+  {
+    "instruction": "Rewrite the story in simpler words for a young child.",
+    "input": "Mia bravely enters a house, finds a sad bird in a cage, and sets it free.",
+    "output": "Mia found a bird in a cage inside a scary house. She opened the cage and helped the bird go free."
+  },
+  {
+    "instruction": "Describe the main feeling in this story.",
+    "input": "Mia bravely enters a house, finds a sad bird in a cage, and sets it free.",
+    "output": "The main feeling in this story is brave and kind."
+  },
+  {
+    "instruction": "Summarize the following story in one sentence.",
+    "input": "Amy meets a kind ghost who helps her choose a happy dream before she goes back to sleep.",
+    "output": "Amy meets a kind ghost who helps her choose a happy dream before she goes back to sleep."
+  },
+  {
+    "instruction": "Give a short title for the following story.",
+    "input": "Amy meets a kind ghost who helps her choose a happy dream before she goes back to sleep.",
+    "output": "Amy and the Friendly Ghost"
+  },
+  {
+    "instruction": "Who is the main character in this story?",
+    "input": "Amy meets a kind ghost who helps her choose a happy dream before she goes back to sleep.",
+    "output": "The main character is Amy."
+  },
+  {
+    "instruction": "Where does this story mainly take place?",
+    "input": "Amy meets a kind ghost who helps her choose a happy dream before she goes back to sleep.",
+    "output": "This story mainly takes place in Amy's house at night."
+  },
+  {
+    "instruction": "What problem appears in this story?",
+    "input": "Amy meets a kind ghost who helps her choose a happy dream before she goes back to sleep.",
+    "output": "Amy wakes up at night and hears a strange sound."
+  },
+  {
+    "instruction": "How is the problem solved in this story?",
+    "input": "Amy meets a kind ghost who helps her choose a happy dream before she goes back to sleep.",
+    "output": "She finds a friendly ghost, chooses a good dream, and feels safe."
+  },
+  {
+    "instruction": "What is the moral of this story?",
+    "input": "Amy meets a kind ghost who helps her choose a happy dream before she goes back to sleep.",
+    "output": "Not everything strange is something to fear."
+  },
+  {
+    "instruction": "Answer the question about the story.",
+    "input": "Story summary: Amy meets a kind ghost who helps her choose a happy dream before she goes back to sleep.\nQuestion: What did the ghost help Amy choose?",
+    "output": "The ghost helped Amy choose a happy dream."
+  },
+  {
+    "instruction": "Continue the story in two simple sentences.",
+    "input": "Amy meets a kind ghost who helps her choose a happy dream before she goes back to sleep.",
+    "output": "The next night, Amy went to bed with a smile because she knew her ghost friend might visit again. She felt safe and calm."
+  },
+  {
+    "instruction": "Rewrite the story in simpler words for a young child.",
+    "input": "Amy meets a kind ghost who helps her choose a happy dream before she goes back to sleep.",
+    "output": "Amy woke up at night and met a friendly ghost. The ghost helped her pick a happy dream."
+  },
+  {
+    "instruction": "Describe the main feeling in this story.",
+    "input": "Amy meets a kind ghost who helps her choose a happy dream before she goes back to sleep.",
+    "output": "The main feeling in this story is sleepy, then comforted."
+  },
+  {
+    "instruction": "Summarize the following story in one sentence.",
+    "input": "A lonely mushroom makes a friend and gets help hiding from the harsh sun.",
+    "output": "A lonely mushroom makes a friend and gets help hiding from the harsh sun."
+  },
+  {
+    "instruction": "Give a short title for the following story.",
+    "input": "A lonely mushroom makes a friend and gets help hiding from the harsh sun.",
+    "output": "The Mushroom and the Bunny"
+  },
+  {
+    "instruction": "Who is the main character in this story?",
+    "input": "A lonely mushroom makes a friend and gets help hiding from the harsh sun.",
+    "output": "The main character is the little mushroom."
+  },
+  {
+    "instruction": "Where does this story mainly take place?",
+    "input": "A lonely mushroom makes a friend and gets help hiding from the harsh sun.",
+    "output": "This story mainly takes place in a forest under the hot sun."
+  },
+  {
+    "instruction": "What problem appears in this story?",
+    "input": "A lonely mushroom makes a friend and gets help hiding from the harsh sun.",
+    "output": "The mushroom feels alone and needs protection from the harsh sun."
+  },
+  {
+    "instruction": "How is the problem solved in this story?",
+    "input": "A lonely mushroom makes a friend and gets help hiding from the harsh sun.",
+    "output": "A bunny becomes its friend and puts it in a cool hole in the ground."
+  },
+  {
+    "instruction": "What is the moral of this story?",
+    "input": "A lonely mushroom makes a friend and gets help hiding from the harsh sun.",
+    "output": "Good friends care about each other's needs."
+  },
+  {
+    "instruction": "Answer the question about the story.",
+    "input": "Story summary: A lonely mushroom makes a friend and gets help hiding from the harsh sun.\nQuestion: How did the bunny help the mushroom?",
+    "output": "The bunny dug a hole and put the mushroom inside so it would stay safe and cool."
+  },
+  {
+    "instruction": "Continue the story in two simple sentences.",
+    "input": "A lonely mushroom makes a friend and gets help hiding from the harsh sun.",
+    "output": "From then on, the mushroom waited happily each morning for the bunny to come back. They always found a new game in the forest."
+  },
+  {
+    "instruction": "Rewrite the story in simpler words for a young child.",
+    "input": "A lonely mushroom makes a friend and gets help hiding from the harsh sun.",
+    "output": "A mushroom felt alone and hot in the sun. A bunny became its friend and helped keep it cool."
+  },
+  {
+    "instruction": "Describe the main feeling in this story.",
+    "input": "A lonely mushroom makes a friend and gets help hiding from the harsh sun.",
+    "output": "The main feeling in this story is lonely, then grateful."
+  },
+  {
+    "instruction": "Summarize the following story in one sentence.",
+    "input": "A queen goes to the park to relax but leaves after seeing a disgusting bug.",
+    "output": "A queen goes to the park to relax but leaves after seeing a disgusting bug."
+  },
+  {
+    "instruction": "Give a short title for the following story.",
+    "input": "A queen goes to the park to relax but leaves after seeing a disgusting bug.",
+    "output": "The Queen and the Bug"
+  },
+  {
+    "instruction": "Who is the main character in this story?",
+    "input": "A queen goes to the park to relax but leaves after seeing a disgusting bug.",
+    "output": "The main character is the queen."
+  },
+  {
+    "instruction": "Where does this story mainly take place?",
+    "input": "A queen goes to the park to relax but leaves after seeing a disgusting bug.",
+    "output": "This story mainly takes place in the park and back at the castle."
+  },
+  {
+    "instruction": "What problem appears in this story?",
+    "input": "A queen goes to the park to relax but leaves after seeing a disgusting bug.",
+    "output": "The queen is bothered by a disgusting bug while trying to relax."
+  },
+  {
+    "instruction": "How is the problem solved in this story?",
+    "input": "A queen goes to the park to relax but leaves after seeing a disgusting bug.",
+    "output": "She returns to her castle and enjoys her day there instead."
+  },
+  {
+    "instruction": "What is the moral of this story?",
+    "input": "A queen goes to the park to relax but leaves after seeing a disgusting bug.",
+    "output": "Peace can sometimes be found by leaving what bothers you."
+  },
+  {
+    "instruction": "Answer the question about the story.",
+    "input": "Story summary: A queen goes to the park to relax but leaves after seeing a disgusting bug.\nQuestion: Why did the queen go back to her castle?",
+    "output": "She went back because she did not like the disgusting bug in the park."
+  },
+  {
+    "instruction": "Continue the story in two simple sentences.",
+    "input": "A queen goes to the park to relax but leaves after seeing a disgusting bug.",
+    "output": "Back at the castle, the queen drank tea and looked out the window. She felt much more relaxed there."
+  },
+  {
+    "instruction": "Rewrite the story in simpler words for a young child.",
+    "input": "A queen goes to the park to relax but leaves after seeing a disgusting bug.",
+    "output": "The queen wanted to relax in the park. A disgusting bug bothered her, so she went back to her castle."
+  },
+  {
+    "instruction": "Describe the main feeling in this story.",
+    "input": "A queen goes to the park to relax but leaves after seeing a disgusting bug.",
+    "output": "The main feeling in this story is calm, then annoyed, then relieved."
+  },
+  {
+    "instruction": "Summarize the following story in one sentence.",
+    "input": "Timmy teaches Fluffy the word repeat, and they enjoy learning words together.",
+    "output": "Timmy teaches Fluffy the word repeat, and they enjoy learning words together."
+  },
+  {
+    "instruction": "Give a short title for the following story.",
+    "input": "Timmy teaches Fluffy the word repeat, and they enjoy learning words together.",
+    "output": "Fluffy Learns a New Word"
+  },
+  {
+    "instruction": "Who is the main character in this story?",
+    "input": "Timmy teaches Fluffy the word repeat, and they enjoy learning words together.",
+    "output": "The main character is Fluffy."
+  },
+  {
+    "instruction": "Where does this story mainly take place?",
+    "input": "Timmy teaches Fluffy the word repeat, and they enjoy learning words together.",
+    "output": "This story mainly takes place outside in the sun with Timmy."
+  },
+  {
+    "instruction": "What problem appears in this story?",
+    "input": "Timmy teaches Fluffy the word repeat, and they enjoy learning words together.",
+    "output": "Fluffy cannot say the word the way Timmy expects."
+  },
+  {
+    "instruction": "How is the problem solved in this story?",
+    "input": "Timmy teaches Fluffy the word repeat, and they enjoy learning words together.",
+    "output": "Fluffy says a funny version of the word, and they turn learning into a fun game."
+  },
+  {
+    "instruction": "What is the moral of this story?",
+    "input": "Timmy teaches Fluffy the word repeat, and they enjoy learning words together.",
+    "output": "Learning can be fun when done with kindness and play."
+  },
+  {
+    "instruction": "Answer the question about the story.",
+    "input": "Story summary: Timmy teaches Fluffy the word repeat, and they enjoy learning words together.\nQuestion: What word did Timmy try to teach Fluffy?",
+    "output": "He tried to teach Fluffy the word 'repeat'."
+  },
+  {
+    "instruction": "Continue the story in two simple sentences.",
+    "input": "Timmy teaches Fluffy the word repeat, and they enjoy learning words together.",
+    "output": "Later, Timmy taught Fluffy another silly word. Fluffy answered with another funny meow-word, and both of them laughed."
+  },
+  {
+    "instruction": "Rewrite the story in simpler words for a young child.",
+    "input": "Timmy teaches Fluffy the word repeat, and they enjoy learning words together.",
+    "output": "Timmy tried to teach Fluffy to say 'repeat'. Fluffy said a funny version, and they had fun learning together."
+  },
+  {
+    "instruction": "Describe the main feeling in this story.",
+    "input": "Timmy teaches Fluffy the word repeat, and they enjoy learning words together.",
+    "output": "The main feeling in this story is playful and proud."
+  },
+  {
+    "instruction": "Summarize the following story in one sentence.",
+    "input": "An octopus and a fish argue over a jug, then decide to pour water together and have fun.",
+    "output": "An octopus and a fish argue over a jug, then decide to pour water together and have fun."
+  },
+  {
+    "instruction": "Give a short title for the following story.",
+    "input": "An octopus and a fish argue over a jug, then decide to pour water together and have fun.",
+    "output": "The Jug in the Sea"
+  },
+  {
+    "instruction": "Who is the main character in this story?",
+    "input": "An octopus and a fish argue over a jug, then decide to pour water together and have fun.",
+    "output": "The main character is the octopus."
+  },
+  {
+    "instruction": "Where does this story mainly take place?",
+    "input": "An octopus and a fish argue over a jug, then decide to pour water together and have fun.",
+    "output": "This story mainly takes place in the deep blue sea."
+  },
+  {
+    "instruction": "What problem appears in this story?",
+    "input": "An octopus and a fish argue over a jug, then decide to pour water together and have fun.",
+    "output": "The octopus and the fish both want to pour the water and start arguing."
+  },
+  {
+    "instruction": "How is the problem solved in this story?",
+    "input": "An octopus and a fish argue over a jug, then decide to pour water together and have fun.",
+    "output": "They share the jug, pour water together, and become happy again."
+  },
+  {
+    "instruction": "What is the moral of this story?",
+    "input": "An octopus and a fish argue over a jug, then decide to pour water together and have fun.",
+    "output": "Sharing is better than arguing."
+  },
+  {
+    "instruction": "Answer the question about the story.",
+    "input": "Story summary: An octopus and a fish argue over a jug, then decide to pour water together and have fun.\nQuestion: How did the octopus solve the disagreement?",
+    "output": "He suggested that both of them should pour the water together."
+  },
+  {
+    "instruction": "Continue the story in two simple sentences.",
+    "input": "An octopus and a fish argue over a jug, then decide to pour water together and have fun.",
+    "output": "After that, the octopus and the fish promised to share their toys faster next time. Their friends cheered and splashed around them."
+  },
+  {
+    "instruction": "Rewrite the story in simpler words for a young child.",
+    "input": "An octopus and a fish argue over a jug, then decide to pour water together and have fun.",
+    "output": "An octopus and a fish found a jug and both wanted to use it. They solved the problem by sharing."
+  },
+  {
+    "instruction": "Describe the main feeling in this story.",
+    "input": "An octopus and a fish argue over a jug, then decide to pour water together and have fun.",
+    "output": "The main feeling in this story is upset, then joyful."
+  },
+  {
+    "instruction": "Summarize the following story in one sentence.",
+    "input": "Tom changes a hoop until it is the right size and then happily plays with it.",
+    "output": "Tom changes a hoop until it is the right size and then happily plays with it."
+  },
+  {
+    "instruction": "Give a short title for the following story.",
+    "input": "Tom changes a hoop until it is the right size and then happily plays with it.",
+    "output": "Tom and the Hoop"
+  },
+  {
+    "instruction": "Who is the main character in this story?",
+    "input": "Tom changes a hoop until it is the right size and then happily plays with it.",
+    "output": "The main character is Tom."
+  },
+  {
+    "instruction": "Where does this story mainly take place?",
+    "input": "Tom changes a hoop until it is the right size and then happily plays with it.",
+    "output": "This story mainly takes place in the yard."
+  },
+  {
+    "instruction": "What problem appears in this story?",
+    "input": "Tom changes a hoop until it is the right size and then happily plays with it.",
+    "output": "The hoop is too big for Tom to enjoy at first."
+  },
+  {
+    "instruction": "How is the problem solved in this story?",
+    "input": "Tom changes a hoop until it is the right size and then happily plays with it.",
+    "output": "He stretches it until it becomes the right size for play."
+  },
+  {
+    "instruction": "What is the moral of this story?",
+    "input": "Tom changes a hoop until it is the right size and then happily plays with it.",
+    "output": "Thinking hard can help solve a small problem."
+  },
+  {
+    "instruction": "Answer the question about the story.",
+    "input": "Story summary: Tom changes a hoop until it is the right size and then happily plays with it.\nQuestion: Why was the hoop a problem at first?",
+    "output": "It was a problem because it was too big for Tom to play with."
+  },
+  {
+    "instruction": "Continue the story in two simple sentences.",
+    "input": "Tom changes a hoop until it is the right size and then happily plays with it.",
+    "output": "Tom showed the hoop to his friends and jumped through it again and again. Everyone laughed at his clever idea."
+  },
+  {
+    "instruction": "Rewrite the story in simpler words for a young child.",
+    "input": "Tom changes a hoop until it is the right size and then happily plays with it.",
+    "output": "Tom found a hoop that was too big. He changed it until it was the right size and then played with it."
+  },
+  {
+    "instruction": "Describe the main feeling in this story.",
+    "input": "Tom changes a hoop until it is the right size and then happily plays with it.",
+    "output": "The main feeling in this story is silly and satisfied."
+  },
+  {
+    "instruction": "Summarize the following story in one sentence.",
+    "input": "A polite crab teaches a new friend how to play, and they become best friends.",
+    "output": "A polite crab teaches a new friend how to play, and they become best friends."
+  },
+  {
+    "instruction": "Give a short title for the following story.",
+    "input": "A polite crab teaches a new friend how to play, and they become best friends.",
+    "output": "The Polite Crab"
+  },
+  {
+    "instruction": "Who is the main character in this story?",
+    "input": "A polite crab teaches a new friend how to play, and they become best friends.",
+    "output": "The main character is the polite crab."
+  },
+  {
+    "instruction": "Where does this story mainly take place?",
+    "input": "A polite crab teaches a new friend how to play, and they become best friends.",
+    "output": "This story mainly takes place in the sea."
+  },
+  {
+    "instruction": "What problem appears in this story?",
+    "input": "A polite crab teaches a new friend how to play, and they become best friends.",
+    "output": "The new friend does not know how to play."
+  },
+  {
+    "instruction": "How is the problem solved in this story?",
+    "input": "A polite crab teaches a new friend how to play, and they become best friends.",
+    "output": "The crab kindly shows the new friend what to do, and they have fun together."
+  },
+  {
+    "instruction": "What is the moral of this story?",
+    "input": "A polite crab teaches a new friend how to play, and they become best friends.",
+    "output": "Being polite and helpful helps friendships grow."
+  },
+  {
+    "instruction": "Answer the question about the story.",
+    "input": "Story summary: A polite crab teaches a new friend how to play, and they become best friends.\nQuestion: What did the polite crab do for the new friend?",
+    "output": "The crab showed the new friend how to play."
+  },
+  {
+    "instruction": "Continue the story in two simple sentences.",
+    "input": "A polite crab teaches a new friend how to play, and they become best friends.",
+    "output": "The next day, the new friend taught the crab a new game too. They laughed and played from morning to night."
+  },
+  {
+    "instruction": "Rewrite the story in simpler words for a young child.",
+    "input": "A polite crab teaches a new friend how to play, and they become best friends.",
+    "output": "A polite crab met a new friend who could not play. The crab helped the friend, and they had fun together."
+  },
+  {
+    "instruction": "Describe the main feeling in this story.",
+    "input": "A polite crab teaches a new friend how to play, and they become best friends.",
+    "output": "The main feeling in this story is friendly and kind."
+  },
+  {
+    "instruction": "State the ending mood of the story in a short phrase.",
+    "input": "Lily finds a needle and asks her mother to help sew a button on her shirt.",
+    "output": "The story ends on a positive and hopeful note."
+  },
+  {
+    "instruction": "State the ending mood of the story in a short phrase.",
+    "input": "Beep the little car enjoys playing under a tree and later gets more fuel before going home.",
+    "output": "The story ends on a positive and hopeful note."
+  },
+  {
+    "instruction": "State the ending mood of the story in a short phrase.",
+    "input": "Fin sees a cold crab, asks the sun for help, and becomes friends with the crab.",
+    "output": "The story ends on a positive and hopeful note."
+  },
+  {
+    "instruction": "State the ending mood of the story in a short phrase.",
+    "input": "A lonely cherry tree learns that being different is special when animals come to enjoy its cherries.",
+    "output": "The story ends on a positive and hopeful note."
+  },
+  {
+    "instruction": "State the ending mood of the story in a short phrase.",
+    "input": "Lily and her animal friends work together to clear a cobweb so they can play again.",
+    "output": "The story ends on a positive and hopeful note."
+  },
+  {
+    "instruction": "State the ending mood of the story in a short phrase.",
+    "input": "Tim spends a fun day rolling in the water with a brown kayak and says goodbye at the end.",
+    "output": "The story ends on a positive and hopeful note."
+  },
+  {
+    "instruction": "State the ending mood of the story in a short phrase.",
+    "input": "Lily finds her lost triangle toy in a puddle and becomes happy again.",
+    "output": "The story ends on a positive and hopeful note."
+  },
+  {
+    "instruction": "State the ending mood of the story in a short phrase.",
+    "input": "Tim and Sarah join a race, run with joy, and Tim wins at the finish line.",
+    "output": "The story ends on a positive and hopeful note."
+  },
+  {
+    "instruction": "State the ending mood of the story in a short phrase.",
+    "input": "Max hurts his knee, gets advice from an owl, and feels better after walking slowly.",
+    "output": "The story ends on a positive and hopeful note."
+  },
+  {
+    "instruction": "State the ending mood of the story in a short phrase.",
+    "input": "Tim takes Sam for a ride in a loud car, and then they play together at the park.",
+    "output": "The story ends on a positive and hopeful note."
+  },
+  {
+    "instruction": "State the ending mood of the story in a short phrase.",
+    "input": "Dependable, the family car, wins a race and makes the family proud.",
+    "output": "The story ends on a positive and hopeful note."
+  },
+  {
+    "instruction": "State the ending mood of the story in a short phrase.",
+    "input": "Tim finds a yellow pencil, keeps it in his hat, and uses it to draw pictures every day.",
+    "output": "The story ends on a positive and hopeful note."
+  },
+  {
+    "instruction": "State the ending mood of the story in a short phrase.",
+    "input": "Mia bravely enters a house, finds a sad bird in a cage, and sets it free.",
+    "output": "The story ends on a positive and hopeful note."
+  },
+  {
+    "instruction": "State the ending mood of the story in a short phrase.",
+    "input": "Amy meets a kind ghost who helps her choose a happy dream before she goes back to sleep.",
+    "output": "The story ends on a positive and hopeful note."
+  },
+  {
+    "instruction": "State the ending mood of the story in a short phrase.",
+    "input": "A lonely mushroom makes a friend and gets help hiding from the harsh sun.",
+    "output": "The story ends on a positive and hopeful note."
+  },
+  {
+    "instruction": "State the ending mood of the story in a short phrase.",
+    "input": "A queen goes to the park to relax but leaves after seeing a disgusting bug.",
+    "output": "The story ends on a positive and hopeful note."
+  },
+  {
+    "instruction": "State the ending mood of the story in a short phrase.",
+    "input": "Timmy teaches Fluffy the word repeat, and they enjoy learning words together.",
+    "output": "The story ends on a positive and hopeful note."
+  },
+  {
+    "instruction": "State the ending mood of the story in a short phrase.",
+    "input": "An octopus and a fish argue over a jug, then decide to pour water together and have fun.",
+    "output": "The story ends on a positive and hopeful note."
+  },
+  {
+    "instruction": "State the ending mood of the story in a short phrase.",
+    "input": "Tom changes a hoop until it is the right size and then happily plays with it.",
+    "output": "The story ends on a positive and hopeful note."
+  },
+  {
+    "instruction": "State the ending mood of the story in a short phrase.",
+    "input": "A polite crab teaches a new friend how to play, and they become best friends.",
+    "output": "The story ends on a positive and hopeful note."
+  }
+]
