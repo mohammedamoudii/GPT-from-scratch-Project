@@ -1,0 +1,65 @@
+Instruction Prompt:
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Who is the main character in this story?
+
+### Input:
+One day, a little girl named Lily found a needle in her room. She asked her mother to help sew a button on her shirt. Together, they shared the needle, fixed the shirt, and felt happy because they worked together.
+
+Generated Response:
+Lily and they could play together.<|endoftext|>
+
+Lily and her friends.<|endoftext|>
+
+Lily and her friends. She loved to play together. She had a fun day long time. One day, Lily's mommy went to play with her friends.
+
+
+
+Lily's mommy and daddy. They saw a big tree with a big tree. Lily
+
+======================================================================
+
+===== M07 FINE-TUNED MODEL TEST 2 =====
+Instruction Prompt:
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+How is the problem solved in this story?
+
+### Input:
+Tim takes Sam for a ride in a loud car, and then they play together at the park.
+
+Generated Response:
+Tim and Sam.
+Tim and Sam.
+Tim and Sam are happy.
+Tim and Sam are happy.
+
+Tim and Sam are happy. They have fun.
+
+Tim and Sam are happy. They have fun.<|endoftext|>
+
+Lily and Ben are friends. They like to play together. They like to play together. They have fun. They have fun.
+
+======================================================================
+
+===== M07 FINE-TUNED MODEL TEST 3 =====
+Instruction Prompt:
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+What is the moral of this story?
+
+### Input:
+A little fish named Fin saw a crab that felt cold and did not want to play. Fin asked the sun to shine on the shore so the crab could feel warm again. After that, the crab felt better, thanked Fin, and they became friends.
+
+Generated Response:
+Timmy and they played together.<|endoftext|>
+
+Timmy and have fun.<|endoftext|>
+
+
+Timmy loved to play together in the park. Timmy and play together. Timmy loved to play together in the park. One day, Timmy's house with his friends. Timmy's friends. Timmy's friends. Timmy's friends. Timmy's friends.
+
+======================================================================
